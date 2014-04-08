@@ -9,3 +9,14 @@ h1 {
 #last-slider {
 	float: left;
 }
+
+option {
+	background: red;
+}
+.ui-btn-active {
+	background: red !important;
+}
+
+.top-btn {
+	padding-top: 85px;
+}
