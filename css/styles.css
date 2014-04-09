@@ -24,5 +24,12 @@ img {
 
 
 .slider {
-	padding-left: 60px;
+	padding-left: 30px;
+	position: relative;
+}
+
+h6 {
+	position: absolute;
+	left: 175px;
+	bottom: 10px;
 }
