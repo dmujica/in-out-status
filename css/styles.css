@@ -1,5 +1,5 @@
 body {
-	width: 250px;
+	width: 500px;
 }
 
 h1 {
@@ -24,12 +24,12 @@ img {
 
 
 .slider {
-	padding-left: 30px;
+	padding-left: 135px;
 	position: relative;
 }
 
 h6 {
 	position: absolute;
-	left: 175px;
+	left: 305px;
 	bottom: 4px;
 }
